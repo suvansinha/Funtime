@@ -1,2 +1,2 @@
-# Rock-Paper-Scissor-
-the famous childhood game of our time 
+# Funtime
+the famous childhood games  
